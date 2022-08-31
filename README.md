@@ -14,7 +14,7 @@
 ## Time taken to finish this project
 
 - 1 hours taken to complete it.
-## Project 8 [Live Link]()
+## Project 8 [Live Link](https://lco-pjt8.netlify.app)
 #### Preview
 
 ![Desktop](./preview.png)
